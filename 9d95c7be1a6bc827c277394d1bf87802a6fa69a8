@@ -16,6 +16,24 @@
       "revId": "9d95c7be1a6bc827c277394d1bf87802a6fa69a8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_63181d81",
+        "filename": "releasetools/firmware.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2147
+      },
+      "writtenOn": "2016-01-15T05:56:31Z",
+      "side": 1,
+      "message": "not yet, i just threw this up for safe keeping. I had the idea to use it to set more variant specific props in libinit.",
+      "parentUuid": "1fcbff3d_d4442dba",
+      "revId": "9d95c7be1a6bc827c277394d1bf87802a6fa69a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
