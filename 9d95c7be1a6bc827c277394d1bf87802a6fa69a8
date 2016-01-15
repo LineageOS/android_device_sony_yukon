@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "1fcbff3d_7e9af0c5",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2016-01-15T06:30:30Z",
+      "side": 1,
+      "message": "Derp",
+      "range": {
+        "startLine": 79,
+        "startChar": 54,
+        "endLine": 79,
+        "endChar": 62
+      },
+      "revId": "9d95c7be1a6bc827c277394d1bf87802a6fa69a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1fcbff3d_d4442dba",
         "filename": "releasetools/firmware.sh",
         "patchSetId": 1
