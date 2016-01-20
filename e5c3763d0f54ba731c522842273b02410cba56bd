@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_7540c108",
+        "filename": "init/init_yukon.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2016-01-20T21:54:15Z",
+      "side": 1,
+      "message": "Unnecessary change of spaces to tabs.",
+      "revId": "e5c3763d0f54ba731c522842273b02410cba56bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_d53bb599",
+        "filename": "init/init_yukon.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2016-01-20T21:54:15Z",
+      "side": 1,
+      "message": "What if this isn\u0027t set yet for some reason?\n\nCould keep the cmdline method as a fallback in that case.",
+      "revId": "e5c3763d0f54ba731c522842273b02410cba56bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
